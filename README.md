@@ -1,2 +1,2 @@
 # wcphilly2017
-Philly WordCamp 2017
+This repo will be the place to get all the files from my presentation.   
